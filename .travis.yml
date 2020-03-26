@@ -13,5 +13,4 @@ cache:
   directories:
     - $HOME/.m2
  
- notification:
-  email: aldoperez1319@gmail.com
+ 
